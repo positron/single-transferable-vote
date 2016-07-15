@@ -1,0 +1,25 @@
+{
+  "name": "single-transferable-vote",
+  "version": "0.1.0",
+  "description": "Calculate the winners of an election using the single transferable vote voting system",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^2.0.0"
+  },
+  "main": "index.js",
+  "keywords": [
+    "vote",
+    "voting"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/positron/single-transferable-vote.git"
+  },
+  "bugs": {
+    "url": "https://github.com/positron/single-transferable-vote/issues"
+  },
+  "author": "Philip Jagielski",
+  "license": "ISC",
+  "homepage": "https://github.com/positron/single-transferable-vote#readme"
+}
