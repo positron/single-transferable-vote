@@ -6,7 +6,8 @@ This package calculates the winners of an election using the single transferable
 ## Contributing
 Issues and Pull Requests are welcome.
 
-<!-- TODO: document processes -->
+Run `npm i; typings i` to install dependencies.
+Then run `npm test` to run the unit tests.
 
 ## Background
 Voting systems is a fascinating area of study that not many people think about.

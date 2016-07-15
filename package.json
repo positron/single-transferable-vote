@@ -2,9 +2,15 @@
   "name": "single-transferable-vote",
   "version": "0.1.0",
   "description": "Calculate the winners of an election using the single transferable vote voting system",
-  "scripts": {},
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --compilers ts:ts-node/register"
+  },
   "dependencies": {},
   "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "mocha-typescript": "^1.0.4",
+    "ts-node": "^0.9.3",
     "typescript": "^2.0.0"
   },
   "main": "index.js",
