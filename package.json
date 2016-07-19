@@ -5,7 +5,9 @@
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha --compilers ts:ts-node/register"
   },
-  "dependencies": {},
+  "dependencies": {
+    "es6-shim": "^0.35.1"
+  },
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.5.3",

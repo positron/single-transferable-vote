@@ -2,6 +2,7 @@
 This package calculates the winners of an election using the single transferable vote (STV) voting system.
 
 <!-- TODO: document js and ts API -->
+<!-- TODO: document corner cases (like ties) and errors -->
 
 ## Contributing
 Issues and Pull Requests are welcome.
